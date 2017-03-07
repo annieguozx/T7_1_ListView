@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">T7_1_ListView</string>
+    <string name="input_userName">请输入用户名</string>
+    <string name="input_password">请输入密码</string>
+    <string name="confirm">确定</string>
+    <string name="userName_notnull">用户名不能为空</string>
+    <string name="password_notnull">密码不能为空</string>
+    <string name="username">用户名:</string>
+    <string name="password">,密码:</string>
+    <string name="music1">音乐1</string>
+    <string name="music2">音乐2</string>
+    <string name="music3">音乐3</string>
+    <string name="music4">音乐4</string>
+    <string name="music5">音乐5</string>
+    <string name="music6">音乐6</string>
+    <string name="music7">音乐7</string>
+    <string name="music8">音乐8</string>
+    <string name="music9">音乐9</string>
+</resources>

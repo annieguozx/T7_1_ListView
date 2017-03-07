@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="classes">　　
+        <item>Android</item>　　
+        <item>移动测试</item>　　
+        <item>高等数学</item>　　
+        <item>英语</item>　　
+        <item>Java</item>　　
+        <item>数据库</item>　　
+        <item>情商管理</item>　　
+        <item>心里健康</item>　　
+        <item>体育</item>　　
+        <item>移动web</item>
+    </string-array>
+</resources>
